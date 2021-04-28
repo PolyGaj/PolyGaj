@@ -11,10 +11,12 @@ Symbol: GAJ
 ## Farms
 
 1st week:
+
 1. GAJ-USDC
 2. GAJ-MATIC
 
 2nd Week:
+
 5. GAJ-BTC 
 6. GAJ-ETH 
 7. ETH-MATIC
